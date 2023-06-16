@@ -1,0 +1,6 @@
+Go first to: /vendor/tecnickcom/tcpdf/tools
+
+php tcpdf_addfont.php -i '/Volumes/JASON/php project/uglcs Gest/public/certificates/fonts/Tw Cen MT.ttf'
+php tcpdf_addfont.php -i '/Volumes/JASON/php project/uglcs Gest/public/certificates/fonts/Tw Cen MT B.ttf'
+php tcpdf_addfont.php -i 'C:\xampp\htdocs\uglcs Gest\public\certificates\fonts/Tw Cen MT.ttf'
+php tcpdf_addfont.php -i 'C:\xampp\htdocs\uglcs Gest\public\certificates\fonts/Tw Cen MT B.ttf'
